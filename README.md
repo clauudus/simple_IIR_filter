@@ -29,7 +29,7 @@ chmod +x demo.sh
   - In terminal: RMS and spectral centroid before/after
 
 ### Extra Notes:
-In this repo I didn't include the WAV file. In my case it's because I don't have the WAV file license. 
-To run the tests on this repo I used Isengards song "In The Halls And Chambers Of Stardust The Crystallic" purely because I really like the song.
-This is a very very (and I cannot stress this enough) very simple project, for myself, only to understand a bit better the audio processing world.
+In this repo I didn't include the WAV file. In my case it's because I don't have the WAV file license. <br />
+To run the tests on this repo I used Isengards song "In The Halls And Chambers Of Stardust The Crystallic" purely because I really like the song. <br />
+This is a very very (and I cannot stress this enough) very simple project, for myself, only to understand a bit better the audio processing world. <br />
 Since I am a very begginer, please, feel more than free to give any comments and do any improvement on the code :)
