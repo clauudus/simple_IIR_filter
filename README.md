@@ -8,20 +8,20 @@
 
 ## Usage:
 ### Installing Dependencies:
-'''
+```
 sudo apt install libsndfile1-dev
 pip3 install numpy librosa matplotlib soundfile
-'''
+```
 
 ### Make Executable:
-'''
+```
 chmod +x demo.sh
-'''
+```
 
 ### Execute:
-'''
+```
 ./demo.sh input.wav output.wav 5000
-'''
+```
 
 ### Results:
   - output.wav (processed)
