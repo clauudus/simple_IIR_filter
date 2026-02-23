@@ -28,6 +28,9 @@ chmod +x demo.sh
   - before_after.png
   - In terminal: RMS and spectral centroid before/after
 
+### Future Works:
+In a couple of days I'm going to be including a txt file to cover all Python dependencies. In this way you won't have to run all commands from terminal (which can be a little bit boring). I'll probably be using Python UV (https://github.com/astral-sh/uv).
+
 ### Extra Notes:
 In this repo I didn't include the WAV file. In my case it's because I don't have the WAV file license. <br />
 To run the tests on this repo I used Isengards song "In The Halls And Chambers Of Stardust The Crystallic" purely because I really like the song. (to be more spacific, 30 seconds of the song). <br />
